@@ -1,0 +1,27 @@
+
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²›Õúÿÿÿÿ8ç÷¶ä­1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÕëÂşÿÿÿÿ8Øø¶ä­1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©½ôµÿÿÿÿÿ8İø¶ä­1
+o	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í–§›şÿÿÿÿ8àø¶ä­1
+o	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¿ Úúÿÿÿÿ8òø¶ä­1
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å´ÁŒüÿÿÿÿ8øø¶ä­1
+j	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äøúı8şø¶ä­1
+j	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·²çå8ù¶ä­1
+o	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üåĞ‹ùÿÿÿÿ8†ù¶ä­1
+j	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØŸ‰Ø8Œù¶ä­1
+j	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Òşˆ8‘ù¶ä­1
+o	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Üë™ûÿÿÿÿ8šù¶ä­1
+T
+java:S1874T"2Remove this use of "assertThat"; it is deprecated.(ÄË˜×şÿÿÿÿ8ù¶ä­1
+o	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÕ¹ªøÿÿÿÿ8¨ù¶ä­1
+O
+java:S1874Y"2Remove this use of "assertThat"; it is deprecated.(º°Œ8­ù¶ä­1
+o	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”˜Ìéùÿÿÿÿ8²ù¶ä­1
+N
+java:S1874_"2Remove this use of "assertThat"; it is deprecated.(ı »8µù¶ä­1
+j	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ…³8ºù¶ä­1
+V
+java:S1128"4Remove this unused import 'java.security.PublicKey'.(ºâú½üÿÿÿÿ8ƒ¤Øä­1
+M
+java:S5960T"+Remove this assertion from production code.(ÄË˜×şÿÿÿÿ8Äù¶ä­1
