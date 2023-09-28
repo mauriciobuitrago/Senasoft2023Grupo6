@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Logueo" skipped="0" tests="2" time="34.68" timestamp="2023-09-27 07:43:34"><testcase name="Logueo exitoso"><failure message="Expected condition failed: waiting for By.xpath: //button[@aria-label='Ignorar informaciÃ³n sobre el inicio de sesiÃ³n.'] to be present (tried for 20 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-O230S6D', ip: '172.18.100.122', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_382'&#10;Driver info: driver.version: unknown" type="net.thucydides.core.webdriver.exceptions.ElementShouldBePresentException">Expected condition failed: waiting for By.xpath: //button[@aria-label='Ignorar informaciÃ³n sobre el inicio de sesiÃ³n.'] to be present (tried for 20 second(s) with 100 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O230S6D', ip: '172.18.100.122', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_382'
+Driver info: driver.version: unknown</failure><system-err>Expected condition failed: waiting for By.xpath: //button[@aria-label='Ignorar informaciÃ³n sobre el inicio de sesiÃ³n.'] to be present (tried for 20 second(s) with 100 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O230S6D', ip: '172.18.100.122', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_382'
+Driver info: driver.version: unknown&#13;
+com.co.sena.task.Login.performAs(Login.java:15)&#13;
+com.co.steptsdefinitions.LoginStepDefinition.elusuarioIngresaLasCredenciales(LoginStepDefinition.java:38)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:64)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:104)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:73)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:258)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase><testcase name="Campos vacios"/></testsuite>
